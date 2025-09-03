@@ -4,8 +4,8 @@
 
 Traffic Management is a client-server application written in C that monitors and manages vehicle traffic. It provides features for drivers, speed updates, accident reporting, extra options, and street information, all powered by a MySQL database.
 
-For more concrete details check this pdf. ![Documentation-romanian](Raport_tehnic.pdf)
- ![Documentation-english](RETELE-english.PDF)
+For more concrete details check this pdf. ![Documentation-romanian](docs/Raport_tehnic.pdf)
+ ![Documentation-english](docs/Raport_tehnic-english.PDF)
 
 ## Technologies Used
 
