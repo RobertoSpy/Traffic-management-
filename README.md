@@ -4,7 +4,7 @@
 
 Traffic Management is a client-server application written in C that monitors and manages vehicle traffic. It provides features for drivers, speed updates, accident reporting, extra options, and street information, all powered by a MySQL database.
 
-For more concrete details check this pdf. ![Documentation-romanian](RETELE.PDF)
+For more concrete details check this pdf. ![Documentation-romanian](Raport_tehnic.PDF)
  ![Documentation-english](RETELE-english.PDF)
 
 ## Technologies Used
@@ -100,10 +100,10 @@ This file creates and populates the database with the necessary tables and initi
 
 Now I will attach some pictures of the running:
 
-1. Run and enter username (from database)[Run](docs/name.png)
-2. The speed change command tells it whether it has exceeded the speed limit or not.[Speed](docs/update.png)
-3. When a user reports an accident, a notification will be sent to all users.[Accidennt](docs/raporteazaaccident.png)
-4. Every 1 minute, a notification is sent to all online users about their speed, on which street, and if they have exceeded the speed limit. [Notification](docs/Frecventa1min.png)
+1. Run and enter username (from database)![Run](docs/nume.png)
+2. The speed change command tells it whether it has exceeded the speed limit or not.![Speed](docs/update.png)
+3. When a user reports an accident, a notification will be sent to all users.![Accidennt](docs/raportareaccident.png)
+4. Every 1 minute, a notification is sent to all online users about their speed, on which street, and if they have exceeded the speed limit. ![Notification](docs/Frecventa1min.png)
 
 ## Recommendations
 
